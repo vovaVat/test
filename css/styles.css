@@ -34,7 +34,7 @@ h1{
 
 .hero-section{
     background-image: url('../img/hero-mob-1x.png');
-    max-width: 375px;
+    max-width: 767px;
     margin-right: auto;
     margin-left: auto;
     padding: 260px 0 302px 0;
@@ -51,7 +51,7 @@ h1{
 
 @media screen and (min-width: 768px) {
     .hero-section{
-        max-width: 768px;
+        max-width: 1279px;
         background-image: url('../img/hero-tab-1x.png');
     }
 
@@ -64,7 +64,7 @@ h1{
 
 @media screen and (min-width:1280px) {
     .hero-section{
-        max-width: 1280px;
+        max-width: 1440px;
         background-image: url('../img/hero-desk-1x.png');
     }
 
