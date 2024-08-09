@@ -40,7 +40,7 @@ h1{
     padding: 260px 0 302px 0;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: center;
 }
 
 @media (min-resolution:192dpi){
