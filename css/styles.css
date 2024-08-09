@@ -34,7 +34,7 @@ h1{
 
 .hero-section{
     background-image: url('../img/hero-mob-1x.png');
-    max-width: 767px;
+    width: 320px;
     margin-right: auto;
     margin-left: auto;
     padding: 260px 0 302px 0;
